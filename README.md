@@ -1,9 +1,9 @@
 # 🌐 Portfolio Website
 
-This repository contains my **personal portfolio website**, designed to showcase my skills, projects, and professional background.  
-The website serves as a central place to highlight my work, technical expertise, and contact information.
+This repository contains my **personal portfolio website**, created to showcase my skills, projects, and professional background.  
+The website serves as a central platform to highlight my technical work, experience, and contact information.
 
-🔗 **Live Website:** [https://your-render-link-here](https://portofolio-website-8yvx.onrender.com)
+🔗 **Live Website:** https://portofolio-website-8yvx.onrender.com
 
 ---
 
@@ -17,22 +17,22 @@ The website serves as a central place to highlight my work, technical expertise,
 
 ## ✨ Features
 
-- 🧑‍💻 About Me section with professional summary
-- 📂 Projects section highlighting key academic and personal projects
+- 🧑‍💻 About Me section with a professional summary
+- 📂 Projects section showcasing academic and personal projects
 - 🛠️ Skills overview
 - 📞 Contact information
-- 📱 Fully responsive design for all screen sizes
+- 📱 Fully responsive design across devices
 - ⚡ Fast and lightweight static website
 
 ---
 
 ## 🎯 Purpose of the Project
 
-This portfolio website was created to:
-- Present my technical skills and projects in a structured manner
-- Build an online professional presence
-- Practice frontend development fundamentals
-- Provide recruiters with easy access to my work
+This portfolio website was built to:
+- Create an online professional presence
+- Present my skills and projects in an organized manner
+- Practice frontend web development fundamentals
+- Make it easy for recruiters to review my work
 
 ---
 
